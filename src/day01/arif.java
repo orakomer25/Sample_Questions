@@ -6,6 +6,7 @@ public class arif {
         int sayi2 = 5;
 
         System.out.println(sayi+sayi2);
+        //pull ortaya yapıştır
 
     }
 }
