@@ -7,6 +7,7 @@ public class arif {
 
         System.out.println(sayi+sayi2);
         //pull ortaya yapıştır
+        //burası böyle olsun
 
     }
 }
